@@ -4,7 +4,7 @@
 var CACHE = 'boki3-v1';
 var FILES = [
   './', 'index.html', 'style.css', 'app.js', 'questions.js', 'cases.js', 'config.js',
-  'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/apple-touch-icon.png', 'icons/icon-maskable-512.png'
+  'manifest.webmanifest', 'icons/icon.svg'
 ];
 var TIMEOUT_MS = 4000;   // 電波が弱いとき、これだけ待っても届かなければ保存した分を出す
 
